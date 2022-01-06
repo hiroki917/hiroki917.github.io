@@ -940,8 +940,8 @@ body::before {
  border:2px solid #ffaa56;
 }
 
-.border{
-
-  margin-bottom: 10px;
-  background:#fff;
+.fix{
+  color: white;
+  padding: 2px;
+  background: white;
 }
